@@ -1,4 +1,4 @@
 hi
 echo "hello world"
 echo "exit"
-
+echo "bye"
